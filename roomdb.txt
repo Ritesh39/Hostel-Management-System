@@ -1,0 +1,4 @@
+SHSA07  4  1
+SHSB10  3  3
+SHSA10  3  0
+SHTB05  3  3
